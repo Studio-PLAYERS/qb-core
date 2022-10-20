@@ -1,0 +1,2 @@
+# qb-core
+Redirect
